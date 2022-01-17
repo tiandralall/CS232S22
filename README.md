@@ -11,6 +11,7 @@ Course Staff
 * Lecture: Monday & Wednesday, 3:30 PM, [Lecture Zoom Link](https://pace.zoom.us/j/6313313504?pwd=bUJtV3NUUlBiZVNKTThTRHBoMi84Zz09) 
 * Recitation: Friday, 2:00 PM, [Recitation Zoom Link](https://pace.zoom.us/j/99718900621?pwd=QXM2VE5QYmY4YkVPN1RNNG5mWnp6Zz09) 
 * Make an appointment with course staff: [Scheduling Jun's office hours](https://slotted.co/junsofficehours2021s) or [Scheduling TA's office hours](https://slotted.co/irisofficehour2021s)
+* You will be using [Gradescope](https://www.gradescope.com/) submit your assignments, Please join via the entry code Entry Code:3YV25J. 
 
 # Course Description
 
