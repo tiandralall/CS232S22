@@ -40,7 +40,7 @@ This course facilitates the development of a deep understanding of the hardware 
 * Understand how a program’s locality of reference property supports memory hierarchy design.
 
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments. [Check current syllabus](https://docs.google.com/document/d/1ewasRZJzhbFVL1rA_OBn9k0KxcrCHMNX3U_9yh4rO6E/edit?usp=sharing). Check this page often for the most up-to-date schedule.
+This syllabus presents the expected class schedule, due dates, and reading assignments. [Check current syllabus](https://docs.google.com/document/d/1tY0xz3trLsnmk1nJAKJzn5bmLSZ_j0fctNJq0pij0oo/edit?usp=sharing). Check this page often for the most up-to-date schedule.
 
 # Live Schedule
 Week|Content|Recording|Reading|Recitation|Deadline
