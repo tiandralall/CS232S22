@@ -7,7 +7,7 @@ Course Staff
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jyuan2pace/CS232S21).
 
-* Section 24480ring 2022
+* Section 24480 Spring 2022
 * Lecture: Monday & Wednesday, 3:30 PM, [Lecture Zoom Link](https://pace.zoom.us/j/6313313504?pwd=bUJtV3NUUlBiZVNKTThTRHBoMi84Zz09) 
 * Recitation: Friday, 2:00 PM, [Recitation Zoom Link](https://pace.zoom.us/j/99718900621?pwd=QXM2VE5QYmY4YkVPN1RNNG5mWnp6Zz09) 
 * Make an appointment with course staff: [Scheduling Jun's office hours](https://slotted.co/junsofficehours2021s) or [Scheduling TA's office hours](https://slotted.co/irisofficehour2021s)
