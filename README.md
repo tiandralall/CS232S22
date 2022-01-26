@@ -3,7 +3,7 @@
 
 Course Staff
 * Instructor: [Dr. Jun Yuan](http://csis.pace.edu/~jyuan2/)
-* Teaching Assistant: [Jack Egan](mailto: je19513n@pace.edu)
+* Teaching Assistant: [Jack Egan](mailto:je19513n@pace.edu)
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jyuan2pace/CS232S21).
 
